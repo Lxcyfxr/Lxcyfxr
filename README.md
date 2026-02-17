@@ -1,5 +1,6 @@
-## Hi there 👋
-
+# Hello
+**there is not much to say about me, so here's a Dino:**
+![dino](dino.gif)
 <!--
 **Lxcyfxr/Lxcyfxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
